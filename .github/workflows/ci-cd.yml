@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 env:
-  DOCKER_IMAGE_NAME: your-dockerhub-username/todo-app
+  DOCKER_IMAGE_NAME: peddintiprasannak/todo-app
   JAVA_VERSION: '17'
 
 jobs:
